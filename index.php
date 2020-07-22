@@ -51,7 +51,7 @@ if(isset($_POST['name'])){
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <img class="bg" src="bg.jpg" alt="default image">
+    <img class="bg" src="https://wallpapercave.com/wp/GiUCHMM.jpg" alt="default image">
     <div class="container">
         <h1>Welcome to Grofits</h3>
         <p>Enter your details and submit this form to continue</p>
